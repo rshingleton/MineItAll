@@ -1,0 +1,5 @@
+C:\Users\reshi\Google Drive\Rimworld MODS\Rimworld\MineItAll\MineItAll\_mod\Assemblies\MineItAll.dll
+C:\Users\reshi\Google Drive\Rimworld MODS\Rimworld\MineItAll\MineItAll\_mod\Assemblies\MineItAll.pdb
+C:\Users\reshi\Google Drive\Rimworld MODS\Rimworld\MineItAll\MineItAll\obj\Release\MineItAll.dll
+C:\Users\reshi\Google Drive\Rimworld MODS\Rimworld\MineItAll\MineItAll\obj\Release\MineItAll.pdb
+C:\Users\reshi\Google Drive\Rimworld MODS\Rimworld\MineItAll\MineItAll\obj\Release\MineItAll.csprojResolveAssemblyReference.cache

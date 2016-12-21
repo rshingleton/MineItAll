@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>MineItAll</name>
+  <author>RShingeton </author>
+  <targetVersion>0.16.1390</targetVersion>
+  <description>
+    Based on Julia Ellie's VeinMiner MOD:\n
+    https://ludeon.com/forums/index.php?topic=9616.0 \n
+    ------------------------------------------\n
+    Click on a visible ore and you will mine the whole vein.\n
+    Strip mining tool to mine a grid.\n
+    Mine brush tool (use q and e to modify brush sizing).\n
+  </description>
+
+<url></url>
+
+</ModMetaData>

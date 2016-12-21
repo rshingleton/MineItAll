@@ -1,0 +1,3 @@
+C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Assemblies\MineItAll.dll
+C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Source\MineItAll\MineItAll\obj\Release\MineItAll.csprojResolveAssemblyReference.cache
+C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Source\MineItAll\MineItAll\obj\Release\MineItAll.dll

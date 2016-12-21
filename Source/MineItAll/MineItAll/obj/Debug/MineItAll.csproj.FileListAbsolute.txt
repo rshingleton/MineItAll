@@ -1,0 +1,5 @@
+C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Assemblies\MineItAll.dll
+C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Assemblies\MineItAll.pdb
+C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Source\MineItAll\MineItAll\obj\Debug\MineItAll.csprojResolveAssemblyReference.cache
+C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Source\MineItAll\MineItAll\obj\Debug\MineItAll.dll
+C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Source\MineItAll\MineItAll\obj\Debug\MineItAll.pdb
