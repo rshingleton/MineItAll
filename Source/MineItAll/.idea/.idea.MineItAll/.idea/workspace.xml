@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a3eaf14-d36f-430a-8797-4ce1894ff18c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Assemblies/MineItAll.pdb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Assemblies/MineItAll.dll" afterPath="$PROJECT_DIR$/../../Assemblies/MineItAll.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MineItAll/obj/Release/MineItAll.dll" afterPath="$PROJECT_DIR$/MineItAll/obj/Release/MineItAll.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../About/About.xml" afterPath="$PROJECT_DIR$/../../About/About.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.MineItAll/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MineItAll/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MineItAll/MineItAll.csproj" afterPath="$PROJECT_DIR$/MineItAll/MineItAll.csproj" />
-    </list>
+    <list default="true" id="3a3eaf14-d36f-430a-8797-4ce1894ff18c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,69 +14,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Designator_MineBrush.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MineItAll/Designator_MineBrush.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-              <folding>
-                <marker date="1482285506843" expanded="true" signature="6:100" ph="..." />
-                <marker date="1482285506843" expanded="true" signature="121:2848" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="179:2846" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="347:437" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="373:427" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="476:996" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="1059:1219" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="1276:1387" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="1457:1526" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="1579:1860" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="1699:1734" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="1815:1850" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="1907:2038" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="2084:2403" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="2229:2393" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="2456:2840" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="2586:2714" ph="{...}" />
-                <marker date="1482285506843" expanded="true" signature="2731:2795" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Designator_StripMiner.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MineItAll/Designator_StripMiner.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-              <folding>
-                <marker date="1482285513167" expanded="true" signature="6:47" ph="..." />
-                <marker date="1482285513167" expanded="true" signature="68:2420" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="127:2418" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="287:377" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="313:367" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="417:975" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="1022:1200" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="1112:1190" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="1270:1598" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="1413:1490" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="1507:1588" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="1651:2243" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="1748:1809" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="1855:1915" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="1981:2041" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="2108:2169" ph="{...}" />
-                <marker date="1482285513167" expanded="true" signature="2296:2412" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="About.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../About/About.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+            <state relative-caret-position="272">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -136,10 +72,6 @@
               <option name="myItemId" value="MineItAll (1 project)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MineItAll" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
         <option name="show-file-system" value="false" />
@@ -148,7 +80,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../About/About.xml" />
+    <property name="last_opened_file_path" value="C:/RimWorld/RimWorldWin_Data/Managed/UnityEngine.dll" />
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration default="true" type="DotNetProject" factoryName=".NET Project">
@@ -189,12 +121,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1482285346595</updated>
-      <workItem from="1482285349006" duration="1838000" />
+      <workItem from="1482285349006" duration="1983000" />
+      <workItem from="1482374889302" duration="349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1838000" />
+    <option name="totallyTimeSpent" value="2332000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -207,27 +140,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18541667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18541667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23361522" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23361522" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23361522" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -240,38 +173,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MineItAll/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MineItAll/Designator_MineBrush.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="357">
           <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <marker date="1482285506843" expanded="true" signature="6:100" ph="..." />
-            <marker date="1482285506843" expanded="true" signature="121:2848" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="179:2846" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="347:437" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="373:427" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="476:996" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="1059:1219" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="1276:1387" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="1457:1526" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="1579:1860" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="1699:1734" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="1815:1850" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="1907:2038" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="2084:2403" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="2229:2393" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="2456:2840" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="2586:2714" ph="{...}" />
-            <marker date="1482285506843" expanded="true" signature="2731:2795" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -279,32 +185,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <marker date="1482285513167" expanded="true" signature="6:47" ph="..." />
-            <marker date="1482285513167" expanded="true" signature="68:2420" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="127:2418" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="287:377" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="313:367" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="417:975" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="1022:1200" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="1112:1190" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="1270:1598" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="1413:1490" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="1507:1588" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="1651:2243" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="1748:1809" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="1855:1915" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="1981:2041" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="2108:2169" ph="{...}" />
-            <marker date="1482285513167" expanded="true" signature="2296:2412" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../About/About.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/MineItAll/Designator_MineBrush.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Designator_StripMiner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../About/About.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding />
         </state>
       </provider>

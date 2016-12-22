@@ -20,7 +20,7 @@ namespace MineItAll
             }
         }
 
-        public StripMiner()
+        public Designator_StripMiner()
         {
             this.defaultLabel = "Strip Miner";
             this.icon = ContentFinder<Texture2D>.Get("StripMine", true);

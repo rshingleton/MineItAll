@@ -6,14 +6,11 @@ using Verse;
 
 namespace MineItAll
 {
-	public class Designator_VeinMiner : Designator_Mine
+    public class Designator_VeinMiner : Designator_Mine
     {
         public override int DraggableDimensions
         {
-            get
-            {
-                return 0;
-            }
+            get { return 0; }
         }
 
         public Designator_VeinMiner()
@@ -31,28 +28,23 @@ namespace MineItAll
 
         public override AcceptanceReport CanDesignateCell(IntVec3 c)
         {
-            AcceptanceReport result;
             if (!GenGrid.InBounds(c, Find.VisibleMap))
             {
-                result = false;
+                return false;
             }
-            else
+
+            if (Find.VisibleMap.designationManager.DesignationAt(c, DesignationDefOf.Mine) == null)
             {
-                if (Find.VisibleMap.designationManager.DesignationAt(c, DesignationDefOf.Mine) == null)
+                foreach (Thing current in Find.VisibleMap.thingGrid.ThingsAt(c))
                 {
-                    foreach (Thing current in Find.VisibleMap.thingGrid.ThingsAt(c))
+                    if (!this.isOre(current.def) || GridsUtility.Fogged(c, Find.VisibleMap))
                     {
-                        if (!this.isOre(current.def) || GridsUtility.Fogged(c, Find.VisibleMap))
-                        {
-                            return "Must designate mineable and accessable ore!";
-                        }
+                        return "Must designate mineable and accessable ore!";
                     }
-                    result = AcceptanceReport.WasAccepted;
-                    return result;
                 }
-                result = AcceptanceReport.WasRejected;
+                return AcceptanceReport.WasAccepted;
             }
-            return result;
+            return AcceptanceReport.WasAccepted;
         }
 
         public override void DesignateSingleCell(IntVec3 loc)

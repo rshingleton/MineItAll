@@ -19,7 +19,7 @@ namespace MineItAll
             }
         }
 
-        public DesognatorMineBrush()
+        public Designator_MineBrush()
         {
             this.defaultLabel = "Mine Brush";
             this.icon = ContentFinder<Texture2D>.Get("MineBrush", true);
@@ -65,8 +65,7 @@ namespace MineItAll
         public override void SelectedUpdate()
         {
             base.SelectedUpdate();
-            IntVec3 pos = UI.MouseCell();
-            this.drawCircle(pos);
+            this.drawCircle(UI.MouseCell());
         }
 
         private void drawCircle(IntVec3 pos)
