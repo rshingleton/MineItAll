@@ -9,7 +9,7 @@ namespace MineItAll
     public class Designator_MineBrush : Designator_Mine
     {
         private float radius = 1f;
-        private Material circleMat = MaterialPool.MatFrom("CircleTex", true);
+        private Material circleMat = MaterialPool.MatFrom("IndicatorTex", true);
 
         public override int DraggableDimensions
         {
@@ -73,7 +73,7 @@ namespace MineItAll
             //Log.Message("Draw Circle");
             foreach (IntVec3 current in GenRadial.RadialCellsAround(pos, this.radius, true))
             {
-                Graphics.DrawMesh(MeshPool.plane10, current.ToVector3ShiftedWithAltitude(28f), Quaternion.identity, this.circleMat, 0);
+                Graphics.DrawMesh(MeshPool.plane10, current.ToVector3ShiftedWithAltitude(AltitudeLayer.MetaOverlays), Quaternion.identity, this.circleMat, 0);
             }
         }
 

@@ -2,44 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="497a419b-c161-4398-af91-ca31a3de4673" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.MineItAll/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MineItAll/Bootstrapper.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MineItAll/Injectors/DesignatorInjector.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MineItAll/Injectors/DesignatorInjectorHelper.cs" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Defs/Designations/DesignationCategories.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll.sln" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/Designator_MineBrush.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/Designator_StripMiner.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/Designator_VeinMiner.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/MineItAll.csproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/Properties/AssemblyInfo.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/obj/Debug/MineItAll.csproj.FileListAbsolute.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/obj/Debug/MineItAll.csprojResolveAssemblyReference.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/obj/Debug/MineItAll.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/obj/Debug/MineItAll.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/obj/Release/MineItAll.csproj.FileListAbsolute.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/obj/Release/MineItAll.csprojResolveAssemblyReference.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/obj/Release/MineItAll.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/obj/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/obj/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/MineItAll/obj/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MineItAll/obj/Release/MineItAll.pdb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../About/preview.png" afterPath="$PROJECT_DIR$/../About/preview.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Assemblies/MineItAll.dll" afterPath="$PROJECT_DIR$/../Assemblies/MineItAll.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MineItAll/obj/Release/MineItAll.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/MineItAll/obj/Release/MineItAll.csprojResolveAssemblyReference.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MineItAll/obj/Release/MineItAll.dll" afterPath="$PROJECT_DIR$/MineItAll/obj/Release/MineItAll.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Textures/IndicatorTex.png" afterPath="$PROJECT_DIR$/../Textures/IndicatorTex.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Textures/MineBrush.png" afterPath="$PROJECT_DIR$/../Textures/MineBrush.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Textures/StripMine.png" afterPath="$PROJECT_DIR$/../Textures/StripMine.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.MineItAll/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MineItAll/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.MineItAll/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.MineItAll/riderModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MineItAll/.idea/.idea.MineItAll/.idea/vcs.xml" afterPath="$PROJECT_DIR$/MineItAll/.idea/.idea.MineItAll/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MineItAll/.idea/.idea.MineItAll/.idea/workspace.xml" afterPath="$PROJECT_DIR$/MineItAll/.idea/.idea.MineItAll/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MineItAll/.idea/.idea.MineItAll/riderModule.iml" afterPath="$PROJECT_DIR$/MineItAll/.idea/.idea.MineItAll/riderModule.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MineItAll/Designator_MineBrush.cs" afterPath="$PROJECT_DIR$/MineItAll/Designator_MineBrush.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MineItAll/Designator_StripMiner.cs" afterPath="$PROJECT_DIR$/MineItAll/Designator_StripMiner.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MineItAll/Designator_VeinMiner.cs" afterPath="$PROJECT_DIR$/MineItAll/Designator_VeinMiner.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MineItAll/MineItAll.csproj" afterPath="$PROJECT_DIR$/MineItAll/MineItAll.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MineItAll/obj/Release/MineItAll.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/MineItAll/obj/Release/MineItAll.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MineItAll/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/MineItAll/Properties/AssemblyInfo.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,14 +28,13 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Designator_VeinMiner.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Designator_VeinMiner.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MineItAll/Designator_VeinMiner.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="476">
               <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="40" />
               <folding>
                 <marker date="1482379934224" expanded="true" signature="6:100" ph="..." />
-                <marker date="1482379934224" expanded="true" signature="121:3807" ph="{...}" />
                 <marker date="1482379934224" expanded="true" signature="179:3805" ph="{...}" />
                 <marker date="1482379934224" expanded="true" signature="233:283" ph="{...}" />
                 <marker date="1482379934224" expanded="true" signature="322:892" ph="{...}" />
@@ -89,11 +62,10 @@
       <file leaf-file-name="Bootstrapper.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MineItAll/Bootstrapper.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="391">
+              <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
               <folding>
                 <marker date="1482382348636" expanded="true" signature="6:94" ph="..." />
-                <marker date="1482382348636" expanded="true" signature="115:1472" ph="{...}" />
                 <marker date="1482382348636" expanded="true" signature="180:1470" ph="{...}" />
                 <marker date="1482382348636" expanded="true" signature="295:878" ph="{...}" />
                 <marker date="1482382348636" expanded="true" signature="423:520" ph="{...}" />
@@ -113,25 +85,24 @@
             <state relative-caret-position="153">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
-                <marker date="1482381967198" expanded="true" signature="6:85" ph="..." />
-                <marker date="1482381967198" expanded="true" signature="116:3738" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="154:3735" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="260:3728" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="311:369" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="429:3692" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="612:740" ph="/* First instatiate and inject the designator into the list of resolved designators ... */" />
-                <marker date="1482381967198" expanded="true" signature="881:1054" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="1101:1268" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="1289:2185" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="1636:1895" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="1683:1783" ph="/* Other designator doesn't exist (yet?) ... */" />
-                <marker date="1482381967198" expanded="true" signature="1920:2167" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="2419:3678" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="2487:2700" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="2725:3660" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="3058:3336" ph="{...}" />
-                <marker date="1482381967198" expanded="true" signature="3113:3215" ph="/* Can't find desired designator class ... */" />
-                <marker date="1482381967198" expanded="true" signature="3365:3638" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="6:85" ph="..." />
+                <marker date="1482544451338" expanded="true" signature="154:3735" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="260:3728" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="311:369" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="429:3692" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="612:740" ph="/* First instatiate and inject the designator into the list of resolved designators ... */" />
+                <marker date="1482544451338" expanded="true" signature="881:1054" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="1101:1268" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="1289:2185" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="1636:1895" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="1683:1783" ph="/* Other designator doesn't exist (yet?) ... */" />
+                <marker date="1482544451338" expanded="true" signature="1920:2167" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="2419:3678" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="2487:2700" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="2725:3660" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="3058:3336" ph="{...}" />
+                <marker date="1482544451338" expanded="true" signature="3113:3215" ph="/* Can't find desired designator class ... */" />
+                <marker date="1482544451338" expanded="true" signature="3365:3638" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -143,10 +114,9 @@
             <state relative-caret-position="85">
               <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding>
-                <marker date="1482381977256" expanded="true" signature="6:71" ph="..." />
-                <marker date="1482381977256" expanded="true" signature="102:556" ph="{...}" />
-                <marker date="1482381977256" expanded="true" signature="153:554" ph="{...}" />
-                <marker date="1482381977256" expanded="true" signature="443:548" ph="{...}" />
+                <marker date="1482544451371" expanded="true" signature="6:71" ph="..." />
+                <marker date="1482544451371" expanded="true" signature="153:554" ph="{...}" />
+                <marker date="1482544451371" expanded="true" signature="443:548" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -183,33 +153,63 @@
       <file leaf-file-name="Designator_MineBrush.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MineItAll/Designator_MineBrush.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-561">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1482375401099" expanded="true" signature="6:100" ph="..." />
-                <marker date="1482375401099" expanded="true" signature="121:2817" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="179:2815" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="347:437" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="373:427" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="476:996" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="1059:1219" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="1276:1387" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="1457:1526" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="1579:1860" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="1699:1734" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="1815:1850" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="1907:2007" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="2053:2372" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="2198:2362" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="2425:2809" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="2555:2683" ph="{...}" />
-                <marker date="1482375401099" expanded="true" signature="2700:2764" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="6:100" ph="..." />
+                <marker date="1482666524185" expanded="true" signature="121:2843" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="179:2841" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="350:440" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="376:430" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="479:999" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="1062:1222" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="1279:1390" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="1460:1529" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="1582:1863" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="1702:1737" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="1818:1853" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="1910:2010" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="2056:2398" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="2201:2388" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="2451:2835" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="2581:2709" ph="{...}" />
+                <marker date="1482666524185" expanded="true" signature="2726:2790" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="About.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../About/About.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssemblyInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MineItAll/Properties/AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="35" lean-forward="false" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+              <folding>
+                <marker date="1482667676379" expanded="true" signature="6:101" ph="..." />
+                <marker date="1482667676379" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
+                <marker date="1482667676379" expanded="true" signature="595:805" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+                <marker date="1482667676379" expanded="true" signature="980:1307" ph="/* Version information for an assembly consists of the following four values: ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>circle</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -218,19 +218,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../Defs/Designations/DesignationCategories.xml" />
-        <option value="$PROJECT_DIR$/MineItAll/Designator_MineBrush.cs" />
         <option value="$PROJECT_DIR$/MineItAll/Designator_StripMiner.cs" />
         <option value="$PROJECT_DIR$/MineItAll/Designator_VeinMiner.cs" />
         <option value="$PROJECT_DIR$/MineItAll/Injectors/Designators.cs" />
         <option value="$PROJECT_DIR$/MineItAll/Injectors/DesignatorInjector.cs" />
         <option value="$PROJECT_DIR$/MineItAll/Injectors/DesignatorInjectorHelper.cs" />
         <option value="$PROJECT_DIR$/MineItAll/Bootstrapper.cs" />
+        <option value="$PROJECT_DIR$/MineItAll/Designator_MineBrush.cs" />
+        <option value="$PROJECT_DIR$/MineItAll/Properties/AssemblyInfo.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="1" />
+    <option name="y" value="8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -280,7 +281,25 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Injectors" />
+              <option name="myItemId" value="Properties" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MineItAll (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MineItAll" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="References" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -291,7 +310,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MineItAll/Bootstrapper.cs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../About/About.xml" />
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration default="true" type="DotNetProject" factoryName=".NET Project">
@@ -337,11 +356,13 @@
       <workItem from="1482375306170" duration="2539000" />
       <workItem from="1482378647996" duration="1334000" />
       <workItem from="1482380024551" duration="3287000" />
+      <workItem from="1482544451323" duration="775000" />
+      <workItem from="1482665231562" duration="2965000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7492000" />
+    <option name="totallyTimeSpent" value="11232000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,14 +374,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1" y="8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18541667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18710022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34355178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3430736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -387,21 +408,291 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Defs/Designations/DesignationCategories.xml">
+    <entry file="file://$PROJECT_DIR$/MineItAll/Designator_VeinMiner.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="476">
+          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <marker date="1482379934224" expanded="true" signature="6:100" ph="..." />
+            <marker date="1482379934224" expanded="true" signature="179:3805" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="233:283" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="322:892" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="962:1658" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1027:1085" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1186:1599" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1281:1532" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1392:1514" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1721:2156" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1810:2146" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1869:2132" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="2230:3651" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="2559:3616" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="2624:3427" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="2730:3373" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="2859:3351" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="2990:3325" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="3114:3295" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="3692:3799" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Bootstrapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <marker date="1482382348636" expanded="true" signature="6:94" ph="..." />
+            <marker date="1482382348636" expanded="true" signature="180:1470" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="295:878" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="423:520" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="574:670" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="724:820" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="952:1073" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="1146:1267" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="1341:1463" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Injectors/DesignatorInjector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1482544451338" expanded="true" signature="6:85" ph="..." />
+            <marker date="1482544451338" expanded="true" signature="154:3735" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="260:3728" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="311:369" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="429:3692" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="612:740" ph="/* First instatiate and inject the designator into the list of resolved designators ... */" />
+            <marker date="1482544451338" expanded="true" signature="881:1054" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="1101:1268" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="1289:2185" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="1636:1895" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="1683:1783" ph="/* Other designator doesn't exist (yet?) ... */" />
+            <marker date="1482544451338" expanded="true" signature="1920:2167" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="2419:3678" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="2487:2700" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="2725:3660" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="3058:3336" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="3113:3215" ph="/* Can't find desired designator class ... */" />
+            <marker date="1482544451338" expanded="true" signature="3365:3638" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Injectors/DesignatorInjectorHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1482544451371" expanded="true" signature="6:71" ph="..." />
+            <marker date="1482544451371" expanded="true" signature="153:554" ph="{...}" />
+            <marker date="1482544451371" expanded="true" signature="443:548" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Designator_StripMiner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <marker date="1482378099387" expanded="true" signature="6:47" ph="..." />
+            <marker date="1482378099387" expanded="true" signature="68:2420" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="127:2418" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="287:377" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="313:367" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="417:975" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1022:1200" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1112:1190" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1270:1598" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1413:1490" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1507:1588" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1651:2243" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1748:1809" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1855:1915" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1981:2041" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="2108:2169" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="2296:2412" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Designator_MineBrush.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482666524185" expanded="true" signature="6:100" ph="..." />
+            <marker date="1482666524185" expanded="true" signature="121:2843" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="179:2841" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="350:440" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="376:430" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="479:999" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1062:1222" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1279:1390" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1460:1529" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1582:1863" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1702:1737" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1818:1853" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1910:2010" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2056:2398" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2201:2388" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2451:2835" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2581:2709" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2726:2790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Designator_VeinMiner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482379934224" expanded="true" signature="6:100" ph="..." />
+            <marker date="1482379934224" expanded="true" signature="179:3805" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="233:283" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="322:892" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="962:1658" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1027:1085" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1186:1599" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1281:1532" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1392:1514" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1721:2156" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1810:2146" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="1869:2132" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="2230:3651" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="2559:3616" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="2624:3427" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="2730:3373" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="2859:3351" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="2990:3325" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="3114:3295" ph="{...}" />
+            <marker date="1482379934224" expanded="true" signature="3692:3799" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Bootstrapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <marker date="1482382348636" expanded="true" signature="6:94" ph="..." />
+            <marker date="1482382348636" expanded="true" signature="180:1470" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="295:878" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="423:520" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="574:670" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="724:820" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="952:1073" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="1146:1267" ph="{...}" />
+            <marker date="1482382348636" expanded="true" signature="1341:1463" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Injectors/DesignatorInjector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1482544451338" expanded="true" signature="6:85" ph="..." />
+            <marker date="1482544451338" expanded="true" signature="154:3735" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="260:3728" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="311:369" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="429:3692" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="612:740" ph="/* First instatiate and inject the designator into the list of resolved designators ... */" />
+            <marker date="1482544451338" expanded="true" signature="881:1054" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="1101:1268" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="1289:2185" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="1636:1895" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="1683:1783" ph="/* Other designator doesn't exist (yet?) ... */" />
+            <marker date="1482544451338" expanded="true" signature="1920:2167" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="2419:3678" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="2487:2700" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="2725:3660" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="3058:3336" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="3113:3215" ph="/* Can't find desired designator class ... */" />
+            <marker date="1482544451338" expanded="true" signature="3365:3638" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Injectors/DesignatorInjectorHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1482544451371" expanded="true" signature="6:71" ph="..." />
+            <marker date="1482544451371" expanded="true" signature="153:554" ph="{...}" />
+            <marker date="1482544451371" expanded="true" signature="443:548" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Designator_StripMiner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <marker date="1482378099387" expanded="true" signature="6:47" ph="..." />
+            <marker date="1482378099387" expanded="true" signature="68:2420" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="127:2418" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="287:377" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="313:367" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="417:975" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1022:1200" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1112:1190" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1270:1598" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1413:1490" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1507:1588" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1651:2243" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1748:1809" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1855:1915" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="1981:2041" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="2108:2169" ph="{...}" />
+            <marker date="1482378099387" expanded="true" signature="2296:2412" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Designator_MineBrush.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482666524185" expanded="true" signature="6:100" ph="..." />
+            <marker date="1482666524185" expanded="true" signature="121:2843" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="179:2841" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="350:440" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="376:430" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="479:999" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1062:1222" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1279:1390" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1460:1529" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1582:1863" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1702:1737" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1818:1853" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1910:2010" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2056:2398" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2201:2388" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2451:2835" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2581:2709" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2726:2790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Defs/Designations/DesignationCategories.xml" />
     <entry file="file://$PROJECT_DIR$/MineItAll/Designator_VeinMiner.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="45" lean-forward="false" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
           <folding>
             <marker date="1482379934224" expanded="true" signature="6:100" ph="..." />
-            <marker date="1482379934224" expanded="true" signature="121:3807" ph="{...}" />
             <marker date="1482379934224" expanded="true" signature="179:3805" ph="{...}" />
             <marker date="1482379934224" expanded="true" signature="233:283" ph="{...}" />
             <marker date="1482379934224" expanded="true" signature="322:892" ph="{...}" />
@@ -431,7 +722,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1482382348636" expanded="true" signature="6:94" ph="..." />
-            <marker date="1482382348636" expanded="true" signature="115:1472" ph="{...}" />
             <marker date="1482382348636" expanded="true" signature="180:1470" ph="{...}" />
             <marker date="1482382348636" expanded="true" signature="295:878" ph="{...}" />
             <marker date="1482382348636" expanded="true" signature="423:520" ph="{...}" />
@@ -475,36 +765,29 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1482375401099" expanded="true" signature="6:100" ph="..." />
-            <marker date="1482375401099" expanded="true" signature="121:2817" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="179:2815" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="347:437" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="373:427" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="476:996" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1059:1219" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1276:1387" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1457:1526" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1579:1860" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1699:1734" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1815:1850" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1907:2007" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2053:2372" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2198:2362" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2425:2809" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2555:2683" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2700:2764" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="6:100" ph="..." />
+            <marker date="1482666524185" expanded="true" signature="121:2843" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="179:2841" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="350:440" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="376:430" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="479:999" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1062:1222" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1279:1390" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1460:1529" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1582:1863" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1702:1737" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1818:1853" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1910:2010" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2056:2398" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2201:2388" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2451:2835" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2581:2709" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2726:2790" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Defs/Designations/DesignationCategories.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Defs/Designations/DesignationCategories.xml" />
     <entry file="file://$PROJECT_DIR$/MineItAll/Designator_StripMiner.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -536,36 +819,29 @@
         <state relative-caret-position="136">
           <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding>
-            <marker date="1482375401099" expanded="true" signature="6:100" ph="..." />
-            <marker date="1482375401099" expanded="true" signature="121:2817" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="179:2815" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="347:437" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="373:427" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="476:996" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1059:1219" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1276:1387" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1457:1526" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1579:1860" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1699:1734" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1815:1850" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1907:2007" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2053:2372" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2198:2362" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2425:2809" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2555:2683" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2700:2764" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="6:100" ph="..." />
+            <marker date="1482666524185" expanded="true" signature="121:2843" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="179:2841" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="350:440" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="376:430" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="479:999" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1062:1222" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1279:1390" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1460:1529" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1582:1863" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1702:1737" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1818:1853" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1910:2010" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2056:2398" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2201:2388" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2451:2835" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2581:2709" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2726:2790" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Defs/Designations/DesignationCategories.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Defs/Designations/DesignationCategories.xml" />
     <entry file="file://$PROJECT_DIR$/MineItAll/Designator_StripMiner.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -597,24 +873,24 @@
         <state relative-caret-position="136">
           <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding>
-            <marker date="1482375401099" expanded="true" signature="6:100" ph="..." />
-            <marker date="1482375401099" expanded="true" signature="121:2817" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="179:2815" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="347:437" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="373:427" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="476:996" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1059:1219" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1276:1387" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1457:1526" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1579:1860" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1699:1734" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1815:1850" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1907:2007" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2053:2372" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2198:2362" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2425:2809" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2555:2683" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2700:2764" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="6:100" ph="..." />
+            <marker date="1482666524185" expanded="true" signature="121:2843" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="179:2841" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="350:440" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="376:430" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="479:999" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1062:1222" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1279:1390" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1460:1529" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1582:1863" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1702:1737" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1818:1853" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1910:2010" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2056:2398" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2201:2388" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2451:2835" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2581:2709" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2726:2790" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -653,65 +929,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MineItAll/Designator_MineBrush.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1482375401099" expanded="true" signature="6:100" ph="..." />
-            <marker date="1482375401099" expanded="true" signature="121:2817" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="179:2815" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="347:437" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="373:427" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="476:996" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1059:1219" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1276:1387" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1457:1526" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1579:1860" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1699:1734" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1815:1850" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="1907:2007" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2053:2372" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2198:2362" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2425:2809" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2555:2683" ph="{...}" />
-            <marker date="1482375401099" expanded="true" signature="2700:2764" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Defs/Designations/DesignationCategories.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Defs/Designations/DesignationCategories.xml" />
     <entry file="file://$PROJECT_DIR$/MineItAll/Injectors/DesignatorInjector.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <marker date="1482381967198" expanded="true" signature="6:85" ph="..." />
-            <marker date="1482381967198" expanded="true" signature="116:3738" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="154:3735" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="260:3728" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="311:369" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="429:3692" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="612:740" ph="/* First instatiate and inject the designator into the list of resolved designators ... */" />
-            <marker date="1482381967198" expanded="true" signature="881:1054" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="1101:1268" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="1289:2185" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="1636:1895" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="1683:1783" ph="/* Other designator doesn't exist (yet?) ... */" />
-            <marker date="1482381967198" expanded="true" signature="1920:2167" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="2419:3678" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="2487:2700" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="2725:3660" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="3058:3336" ph="{...}" />
-            <marker date="1482381967198" expanded="true" signature="3113:3215" ph="/* Can't find desired designator class ... */" />
-            <marker date="1482381967198" expanded="true" signature="3365:3638" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="6:85" ph="..." />
+            <marker date="1482544451338" expanded="true" signature="154:3735" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="260:3728" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="311:369" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="429:3692" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="612:740" ph="/* First instatiate and inject the designator into the list of resolved designators ... */" />
+            <marker date="1482544451338" expanded="true" signature="881:1054" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="1101:1268" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="1289:2185" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="1636:1895" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="1683:1783" ph="/* Other designator doesn't exist (yet?) ... */" />
+            <marker date="1482544451338" expanded="true" signature="1920:2167" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="2419:3678" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="2487:2700" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="2725:3660" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="3058:3336" ph="{...}" />
+            <marker date="1482544451338" expanded="true" signature="3113:3215" ph="/* Can't find desired designator class ... */" />
+            <marker date="1482544451338" expanded="true" signature="3365:3638" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -721,21 +962,19 @@
         <state relative-caret-position="85">
           <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding>
-            <marker date="1482381977256" expanded="true" signature="6:71" ph="..." />
-            <marker date="1482381977256" expanded="true" signature="102:556" ph="{...}" />
-            <marker date="1482381977256" expanded="true" signature="153:554" ph="{...}" />
-            <marker date="1482381977256" expanded="true" signature="443:548" ph="{...}" />
+            <marker date="1482544451371" expanded="true" signature="6:71" ph="..." />
+            <marker date="1482544451371" expanded="true" signature="153:554" ph="{...}" />
+            <marker date="1482544451371" expanded="true" signature="443:548" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MineItAll/Bootstrapper.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="391">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding>
             <marker date="1482382348636" expanded="true" signature="6:94" ph="..." />
-            <marker date="1482382348636" expanded="true" signature="115:1472" ph="{...}" />
             <marker date="1482382348636" expanded="true" signature="180:1470" ph="{...}" />
             <marker date="1482382348636" expanded="true" signature="295:878" ph="{...}" />
             <marker date="1482382348636" expanded="true" signature="423:520" ph="{...}" />
@@ -750,11 +989,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MineItAll/Designator_VeinMiner.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="476">
           <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="40" />
           <folding>
             <marker date="1482379934224" expanded="true" signature="6:100" ph="..." />
-            <marker date="1482379934224" expanded="true" signature="121:3807" ph="{...}" />
             <marker date="1482379934224" expanded="true" signature="179:3805" ph="{...}" />
             <marker date="1482379934224" expanded="true" signature="233:283" ph="{...}" />
             <marker date="1482379934224" expanded="true" signature="322:892" ph="{...}" />
@@ -775,6 +1013,54 @@
             <marker date="1482379934224" expanded="true" signature="3114:3295" ph="{...}" />
             <marker date="1482379934224" expanded="true" signature="3692:3799" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="35" lean-forward="false" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+          <folding>
+            <marker date="1482667676379" expanded="true" signature="6:101" ph="..." />
+            <marker date="1482667676379" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1482667676379" expanded="true" signature="595:805" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1482667676379" expanded="true" signature="980:1307" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineItAll/Designator_MineBrush.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482666524185" expanded="true" signature="6:100" ph="..." />
+            <marker date="1482666524185" expanded="true" signature="121:2843" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="179:2841" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="350:440" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="376:430" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="479:999" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1062:1222" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1279:1390" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1460:1529" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1582:1863" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1702:1737" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1818:1853" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="1910:2010" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2056:2398" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2201:2388" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2451:2835" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2581:2709" ph="{...}" />
+            <marker date="1482666524185" expanded="true" signature="2726:2790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../About/About.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

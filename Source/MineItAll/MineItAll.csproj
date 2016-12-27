@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Assembly-CSharp, Version=0.16.6198.16597, Culture=neutral, PublicKeyToken=null">
+    <Reference Include="Assembly-CSharp, Version=0.16.6198.16102, Culture=neutral, PublicKeyToken=null">
       <HintPath>..\..\..\..\..\..\..\..\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
@@ -66,6 +66,11 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\About\About.xml">
+      <Link>About.xml</Link>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
