@@ -3,6 +3,13 @@ C:\Users\reshi\Google Drive\Rimworld MODS\Rimworld\MineItAll\MineItAll\_mod\Asse
 C:\Users\reshi\Google Drive\Rimworld MODS\Rimworld\MineItAll\MineItAll\obj\Release\MineItAll.dll
 C:\Users\reshi\Google Drive\Rimworld MODS\Rimworld\MineItAll\MineItAll\obj\Release\MineItAll.pdb
 C:\Users\reshi\Google Drive\Rimworld MODS\Rimworld\MineItAll\MineItAll\obj\Release\MineItAll.csprojResolveAssemblyReference.cache
-C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Source\MineItAll\obj\Release\MineItAll.csprojResolveAssemblyReference.cache
-C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Source\MineItAll\obj\Release\MineItAll.dll
 C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Assemblies\MineItAll.dll
+C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\dist\Assemblies\MineItAll.dll
+C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\dist\MineItAll\Assemblies\MineItAll.dll
+C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Source\MineItAll\obj\Release\MineItAll.csproj.CoreCompileInputs.cache
+C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Source\MineItAll\obj\Release\MineItAll.dll
+C:\Users\reshi\Dropbox\Rimworld Mods\Mods\MineItAll\Source\MineItAll\obj\Release\MineItAll.csprojResolveAssemblyReference.cache
+D:\Dropbox\Rimworld Mods\Mods\MineItAll\dist\MineItAll\Assemblies\MineItAll.dll
+D:\Dropbox\Rimworld Mods\Mods\MineItAll\Source\MineItAll\obj\Release\MineItAll.csprojResolveAssemblyReference.cache
+D:\Dropbox\Rimworld Mods\Mods\MineItAll\Source\MineItAll\obj\Release\MineItAll.csproj.CoreCompileInputs.cache
+D:\Dropbox\Rimworld Mods\Mods\MineItAll\Source\MineItAll\obj\Release\MineItAll.dll

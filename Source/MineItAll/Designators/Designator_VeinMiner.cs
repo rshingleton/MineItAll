@@ -6,25 +6,25 @@ using Verse;
 
 namespace MineItAll
 {
-    public class Designator_VeinMiner : Designator_Mine
+    public class Designator_VeinMiner : Designator_MineTool
     {
         public override int DraggableDimensions
         {
             get { return 0; }
         }
 
-        public Designator_VeinMiner()
+        public Designator_VeinMiner(MinerDesignatorDef def) : base(def)
         {
-            this.defaultLabel = "Vein Miner";
-            this.icon = ContentFinder<Texture2D>.Get("Minepick", true);
-            this.defaultDesc = "Click on a visible ore and you will mine the whole vein.";
-            this.useMouseIcon = true;
-            this.soundDragSustain = SoundDefOf.DesignateDragStandard;
-            this.soundDragChanged = SoundDefOf.DesignateDragStandardChanged;
-            this.soundSucceeded = SoundDefOf.DesignateMine;
-            this.hotKey = KeyBindingDefOf.Misc10;
-            this.tutorTag = "DesignatorMine";
+//            this.defaultLabel = "Vein Miner";
+//            this.defaultDesc = "Click on a visible ore and you will mine the whole vein.";
+//            this.useMouseIcon = true;
+//            this.soundDragSustain = SoundDefOf.DesignateDragStandard;
+//            this.soundDragChanged = SoundDefOf.DesignateDragStandardChanged;
+//            this.soundSucceeded = SoundDefOf.DesignateMine;
+//            this.hotKey = KeyBindingDefOf.Misc10;
+//            this.tutorTag = "DesignatorMine";
         }
+
 
         public override AcceptanceReport CanDesignateCell(IntVec3 c)
         {
@@ -53,7 +53,7 @@ namespace MineItAll
             {
                 if (this.isOre(current.def))
                 {
-                    Designator_Mine designator_Mine = new Designator_Mine();
+                    var designator_Mine = new Designator_Mine();
                     List<IntVec3> veinCells = this.getVeinCells(loc, current.def);
                     designator_Mine.DesignateMultiCell(veinCells);
                 }

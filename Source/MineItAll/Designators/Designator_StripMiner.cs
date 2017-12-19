@@ -4,7 +4,7 @@ using Verse;
 
 namespace MineItAll
 {
-    public class Designator_StripMiner : Designator_Mine
+    public class Designator_StripMiner : Designator_MineTool
     {
         private IntVec3 startPoint;
 
@@ -14,22 +14,11 @@ namespace MineItAll
 
         public override int DraggableDimensions
         {
-            get
-            {
-                return 2;
-            }
+            get { return 2; }
         }
 
-        public Designator_StripMiner()
+        public Designator_StripMiner(MinerDesignatorDef def) : base(def)
         {
-            this.defaultLabel = "Strip Miner";
-            this.icon = ContentFinder<Texture2D>.Get("StripMine", true);
-            this.defaultDesc = "Drag an area to strip mine. Use 8,4,5,6 on your !NUMBLOCK! to change spacing between strips.";
-            this.useMouseIcon = true;
-            this.soundDragSustain = SoundDefOf.DesignateDragStandard;
-            this.soundDragChanged = SoundDefOf.DesignateDragStandardChanged;
-            this.soundSucceeded = SoundDefOf.DesignateMine;
-            this.tutorTag = "DesignatorMine";
         }
 
         public override void SelectedUpdate()
@@ -57,22 +46,25 @@ namespace MineItAll
         public override void DrawMouseAttachments()
         {
             base.DrawMouseAttachments();
-            if (Input.GetKeyUp((KeyCode)264))
+            var shifted = Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift);
+            if (!shifted && Input.GetKeyDown(KeyCode.Q))
             {
                 this.spacingY++;
             }
-            if (Input.GetKeyUp((KeyCode)262))
+            else if (!shifted && Input.GetKeyDown(KeyCode.E))
             {
                 this.spacing++;
             }
-            if (Input.GetKeyUp((KeyCode)260) && this.spacing > 4)
+            else if ((shifted && Input.GetKeyDown(KeyCode.E)) && this.spacing > 4)
             {
                 this.spacing--;
             }
-            if (Input.GetKeyUp((KeyCode)261) && this.spacingY > 4)
+            else if ((shifted && Input.GetKeyDown(KeyCode.Q)) && this.spacingY > 4)
             {
                 this.spacingY--;
             }
+
+
             //Log.Message(this.spacing + ", " + this.spacingY);
         }
 
