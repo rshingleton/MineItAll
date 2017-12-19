@@ -78,10 +78,12 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="..\..\dist\MineItAll\About\About.xml">
+      <Link>About.xml</Link>
+    </Content>
     <Content Include="..\..\dist\MineItAll\Defs\MinerDesignations\Designations.xml">
       <Link>Designations.xml</Link>
     </Content>
-    <Content Include="About.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

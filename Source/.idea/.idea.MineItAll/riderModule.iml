@@ -2,6 +2,7 @@
 <module type="RIDER_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../../../dist/MineItAll/About/About.xml" />
     <content url="file://$MODULE_DIR$/../../../dist/MineItAll/Defs/MinerDesignations/Designations.xml" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

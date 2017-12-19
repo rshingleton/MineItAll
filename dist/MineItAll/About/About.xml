@@ -4,12 +4,15 @@
   <author>RShingeton </author>
   <targetVersion>0.18.1722</targetVersion>
   <description>
-    Based on Julia Ellie's VeinMiner MOD:\n
-    https://ludeon.com/forums/index.php?topic=9616.0 \n
-    ------------------------------------------\n
     Click on a visible ore and you will mine the whole vein.\n
     Strip mining tool to mine a grid.\n
     Mine brush tool (use q and e to modify brush sizing).\n
+
+    **NOTE: Requires HugsLib
+
+    -------------------------------------------\n
+    Originally based on Julia Ellie's VeinMiner MOD:\n
+    https://ludeon.com/forums/index.php?topic=9616.0 \n
   </description>
 
 <url></url>
